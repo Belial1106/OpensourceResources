@@ -166,6 +166,8 @@ Free Learning Resources related to Web-Development 🔥❤
 
 - [Mentorsadda](https://www.youtube.com/user/Mentorsadda)
 - [edureka! Hindi](https://www.youtube.com/channel/UCywyZ4r4FTKExrPl9rf-ggw)
+- [Apna College](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA)
+- [Anuj Bhaiya](https://www.youtube.com/channel/UC58_wzhvJta3hDSPvRLDAqg)
 - [Websofttutorials](https://www.youtube.com/user/websofttutorials)
 - [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
 - [C++ by saurabh shukla sir](https://www.youtube.com/channel/UCD-scAE4ju78dld1kpcsQfQ)
